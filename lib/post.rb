@@ -24,6 +24,7 @@ class Post
     nil
   author.name 
 end
+end
  
  
 end
