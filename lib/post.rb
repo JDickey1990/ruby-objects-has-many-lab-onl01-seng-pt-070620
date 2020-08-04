@@ -19,7 +19,7 @@ class Post
  
  def author_name
   if author.name == nil
-    puts nil
+   nil
   else
   author.name 
 end
