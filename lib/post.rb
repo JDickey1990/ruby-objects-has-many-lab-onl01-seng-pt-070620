@@ -18,8 +18,8 @@ class Post
   end
  
  def author_name
-  if author.name == nil
-   nil
+  if author == nil
+   puts nil
   else
   author.name 
 end
