@@ -19,5 +19,8 @@ def add_post_by_title(post)
   add_post(post)
 end 
 
+def post_count
+  self.
+
 
 end
